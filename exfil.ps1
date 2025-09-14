@@ -1,3 +1,4 @@
+# By, Adam Joseph
 # -- Checks chrome passes --
 $chromeUserData = "$env:LOCALAPPDATA\Google\Chrome\User Data"
 $chromeReport = @()
